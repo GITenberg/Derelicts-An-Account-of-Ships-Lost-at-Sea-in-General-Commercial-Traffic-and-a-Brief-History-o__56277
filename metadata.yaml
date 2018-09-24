@@ -1,11 +1,16 @@
 _repo: Derelicts-An-Account-of-Ships-Lost-at-Sea-in-General-Commercial-Traffic-and-a-Brief-History-o__56277
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56277-h/images/cover.jpg
 creator:
   author:
     agent_name: Sprunt, James
     gutenberg_agent_id: '48757'
     url: http://www.gutenberg.org/2009/agents/48757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56277#Derelicts-An-Account-of-Ships-Lost-at-Sea-in-General-Commercial-Traffic-and-a-Brief-History-o_
 gutenberg_issued: '2017-12-31'
 gutenberg_type: Text
 identifiers:
